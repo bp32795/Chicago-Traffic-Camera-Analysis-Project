@@ -1,0 +1,17 @@
+MODEL INFO:
+Observations: 539106
+Dependent Variable: VIOLATIONS
+Type: OLS linear regression 
+
+MODEL FIT:
+F(4,539101) = 35230.98, p = 0.00
+R² = 0.21
+Adj. R² = 0.21 
+
+Standard errors: OLS
+                    Est. S.E. t val.    p    
+(Intercept)         4.45 0.06  73.53 0.00 ***
+TYPESpeed          23.57 0.06 371.27 0.00 ***
+DistrictNorth-West  1.33 0.08  17.68 0.00 ***
+DistrictSouth-East  2.13 0.08  26.34 0.00 ***
+DistrictSouth-West  1.19 0.10  12.29 0.00 ***

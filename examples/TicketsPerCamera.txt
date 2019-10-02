@@ -1,0 +1,1 @@
+[1] "Speed cameras had  264147.235294118  tickets per camera, and Red Light Cameras had  127750.235294118  tickets per camera."
